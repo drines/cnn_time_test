@@ -7,7 +7,7 @@ classifications to the true identity of object in the images, and
 summarizes how well the CNN performed on the image classification
 task.
 
-Note that the true identity of the or object in the image is
+Note that the true identity of the object in the image is
 must be indicated by the filename of the image. The program
 extracts the pet image label from the filename before
 classifying the images using the pretrained CNN model. This
